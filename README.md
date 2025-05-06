@@ -42,7 +42,7 @@
 
 1.  **Клонуйте репозиторій:**
     ```bash
-    git clone [https://github.com/new](https://github.com/new)
+    git clone https://github.com/LavrovDmytro/TrackMyHabits.git
     ```
 2.  **Відкрийте проект в Android Studio:**
     * Відкрийте Android Studio.
